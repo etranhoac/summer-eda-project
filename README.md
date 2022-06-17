@@ -1,2 +1,2 @@
 # summer-eda-project
-Summer EDA project for CMSA Camp
+Summer EDA project on WNBA data
